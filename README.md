@@ -44,7 +44,7 @@ Star后相信你可以比以往开发快10倍
 |---|---|---|
 | [![Total Downloads](https://poser.pugx.org/overtrue/easy-sms/downloads)](https://packagist.org/packages/overtrue/easy-sms)  | [overtrue/easy-sms](https://github.com/overtrue/easy-sms) | 一款满足你的多种发送需求的短信发送组件 |
 | [![Total Downloads](https://poser.pugx.org/overtrue/pinyin/downloads)](https://packagist.org/packages/overtrue/pinyin)  | [overtrue/pinyin](https://github.com/overtrue/pinyin) | 🇨🇳 基于 CC-CEDICT 词典的中文转拼音工具 |
-| [![Total Downloads](https://poser.pugx.org/overtrue/socialite/downloads)](https://packagist.org/packages/overtrue/socialite)  | [overtrue/socialite](https://github.com/overtrue/socialite) | Socialite 是一个 OAuth2 认证工具,支持微信,QQ,支付宝,百度,抖音等等 |
+| [![Total Downloads](https://poser.pugx.org/overtrue/socialite/downloads)](https://packagist.org/packages/overtrue/socialite)  | [overtrue/socialite](https://github.com/overtrue/socialite) | OAuth2 认证工具,支持微信,QQ,支付宝,百度,抖音等等 |
 | [![Total Downloads](https://poser.pugx.org/overtrue/wisteria/downloads)](https://packagist.org/packages/overtrue/wisteria)  | [overtrue/wisteria](https://github.com/overtrue/wisteria) | 适合您项目的精美文档工具 |
 | [![Total Downloads](https://poser.pugx.org/phpunit/phpunit/downloads)](https://packagist.org/packages/phpunit/phpunit)  | [phpunit/phpunit](https://github.com/phpunit/phpunit) | PHP测试框架 |
 | [![Total Downloads](https://poser.pugx.org/mockery/mockery/downloads)](https://packagist.org/packages/mockery/mockery)  | [mockery/mockery](https://github.com/mockery/mockery) | 简单而灵活的 PHP 模拟对象框架 |
