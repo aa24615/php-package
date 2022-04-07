@@ -42,6 +42,7 @@ Star后相信你可以比以往开发快10倍
 |---|---|---|
 | [![Total Downloads](https://poser.pugx.org/overtrue/easy-sms/downloads)](https://packagist.org/packages/overtrue/easy-sms)  | [overtrue/easy-sms](https://github.com/overtrue/easy-sms) | 一款满足你的多种发送需求的短信发送组件 |
 | [![Total Downloads](https://poser.pugx.org/overtrue/pinyin/downloads)](https://packagist.org/packages/overtrue/pinyin)  | [overtrue/pinyin](https://github.com/overtrue/pinyin) | 🇨🇳 基于 CC-CEDICT 词典的中文转拼音工具 |
+| [![Total Downloads](https://poser.pugx.org/overtrue/socialite/downloads)](https://packagist.org/packages/overtrue/socialite)  | [overtrue/socialite](https://github.com/overtrue/socialite) | Socialite 是一个 OAuth2 认证工具,支持微信,QQ,支付宝,百度,抖音等等 |
 | [![Total Downloads](https://poser.pugx.org/overtrue/wisteria/downloads)](https://packagist.org/packages/overtrue/wisteria)  | [overtrue/wisteria](https://github.com/overtrue/wisteria) | 适合您项目的精美文档工具 |
 | [![Total Downloads](https://poser.pugx.org/phpunit/phpunit/downloads)](https://packagist.org/packages/phpunit/phpunit)  | [phpunit/phpunit](https://github.com/phpunit/phpunit) | PHP测试框架 |
 | [![Total Downloads](https://poser.pugx.org/mockery/mockery/downloads)](https://packagist.org/packages/mockery/mockery)  | [mockery/mockery](https://github.com/mockery/mockery) | 简单而灵活的 PHP 模拟对象框架 |
@@ -53,9 +54,15 @@ Star后相信你可以比以往开发快10倍
 | [![Total Downloads](https://poser.pugx.org/mikey179/vfsstream/downloads)](https://packagist.org/packages/mikey179/vfsstream)  | [mikey179/vfsstream](https://github.com/mikey179/vfsstream) | 在单元测试中模拟真实文件系统的虚拟文件系统  |
 | [![Total Downloads](https://poser.pugx.org/jae-jae/querylist/downloads)](https://packagist.org/packages/jae-jae/querylist)  | [jae-jae/querylist](https://github.com/jae-jae/querylist) | 优雅的渐进式PHP采集框架，让采集更简单一点 |
 | [![Total Downloads](https://poser.pugx.org/silexphp/Pimple/downloads)](https://packagist.org/packages/silexphp/Pimple)  | [silexphp/Pimple](https://github.com/silexphp/Pimple) |  一个简单的 PHP 依赖注入容器 |
+| [![Total Downloads](https://poser.pugx.org/phpoffice/phpspreadsheet/downloads)](https://packagist.org/packages/phpoffice/phpspreadsheet)  | [phpoffice/phpspreadsheet](https://github.com/phpoffice/phpspreadsheet) | PHP-Excel  |
+| [![Total Downloads](https://poser.pugx.org/jenssegers/agent/downloads)](https://packagist.org/packages/jenssegers/agent)  | [jenssegers/agent](https://github.com/jenssegers/agent) | 客户端 User Agent 解析工具  |
+| [![Total Downloads](https://poser.pugx.org/SimpleSoftwareIO/simple-qrcode/downloads)](https://packagist.org/packages/SimpleSoftwareIO/simple-qrcode)  | [SimpleSoftwareIO/simple-qrcode](https://github.com/SimpleSoftwareIO/simple-qrcode) | 二维码生成工具 |
+| [![Total Downloads](https://poser.pugx.org/GrahamCampbell/Laravel-Markdown/downloads)](https://packagist.org/packages/GrahamCampbell/Laravel-Markdown)  | [GrahamCampbell/Laravel-Markdown](https://github.com/GrahamCampbell/Laravel-Markdown) | Markdown 解析器 |
 
 
 ```shell
 //模板
+
 | [![Total Downloads](https://poser.pugx.org//downloads)](https://packagist.org/packages/)  | [](https://github.com/) |  |
+
 ```
