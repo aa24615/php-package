@@ -49,13 +49,10 @@ Star后相信你可以比以往开发快10倍
 | [![Total Downloads](https://poser.pugx.org/nunomaduro/larastan/downloads)](https://packagist.org/packages/nunomaduro/larastan)  | [nunomaduro/larastan](https://github.com/nunomaduro/larastan) | PHP 静态分析工具-laravel版 |
 | [![Total Downloads](https://poser.pugx.org/fruitcake/laravel-cors/downloads)](https://packagist.org/fruitcake/laravel-cors/phpstan)  | [fruitcake/laravel-cors](https://github.com/fruitcake/laravel-cors) | laravel-cors 解决跨域问题 |
 | [![Total Downloads](https://poser.pugx.org/kitloong/laravel-migrations-generator/downloads)](https://packagist.org/fruitcake/kitloong/laravel-migrations-generator)  | [kitloong/laravel-migrations-generator](https://github.com/kitloong/laravel-migrations-generator) | laravel 从现有数据库生成迁移 |
-| [![Total Downloads](https://poser.pugx.org/barryvdh/laravel-ide-helper/downloads)](https://packagist.org/packages/barryvdh/laravel-ide-helper)  | [barryvdh/laravel-ide-helper](https://github.com/barryvdh/laravel-ide-helper) | Laravel IDE Helper，为所有 Facade 类生成正确的 PHPDocs，以提高自动完成功能|
+| [![Total Downloads](https://poser.pugx.org/barryvdh/laravel-ide-helper/downloads)](https://packagist.org/packages/barryvdh/laravel-ide-helper)  | [barryvdh/laravel-ide-helper](https://github.com/barryvdh/laravel-ide-helper) | Laravel IDE Helper|
 | [![Total Downloads](https://poser.pugx.org/mikey179/vfsstream/downloads)](https://packagist.org/packages/mikey179/vfsstream)  | [mikey179/vfsstream](https://github.com/mikey179/vfsstream) | 在单元测试中模拟真实文件系统的虚拟文件系统  |
-
 | [![Total Downloads](https://poser.pugx.org/jae-jae/querylist/downloads)](https://packagist.org/packages/jae-jae/querylist)  | [jae-jae/querylist](https://github.com/jae-jae/querylist) | 优雅的渐进式PHP采集框架，让采集更简单一点 |
 | [![Total Downloads](https://poser.pugx.org/silexphp/Pimple/downloads)](https://packagist.org/packages/silexphp/Pimple)  | [silexphp/Pimple](https://github.com/silexphp/Pimple) |  一个简单的 PHP 依赖注入容器 |
-
-
 
 
 ```shell
