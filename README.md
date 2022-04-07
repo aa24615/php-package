@@ -12,5 +12,5 @@ Star后相信你可以比以往开发快10倍
 ## 图片处理
 
 | 下载次数 | Star 数 | 扩展包 | 一句话描述 |
-|---|---|---|---|---|
+|---|---|---|---|
 | 2883968 | 3968 | [intervention/image](https://github.com/Intervention/image) | 最强大的图片处理 |
