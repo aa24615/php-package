@@ -1,10 +1,9 @@
 ## 说明
 
-收集php开发精选扩展包
+收集php常用开发扩展包
 Star后相信你可以比以往开发快10倍     
 
-如果您也有推荐的扩展包 请提交PR至 [https://github.com/aa24615/php-package](https://github.com/aa24615/php-package)
-
+如果您也有推荐的扩展包 请提交PR→ [https://github.com/aa24615/php-package](https://github.com/aa24615/php-package)
 
 ### 相关
 [下载量最高的 100 个 Laravel 扩展包推荐](https://github.com/summerblue/laravel-package-top-100) 
