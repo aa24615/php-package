@@ -42,6 +42,8 @@ Star后相信你可以比以往开发快10倍
 
 ## Laravel相关
 
+| 下载次数 |  扩展包 | 一句话描述 |
+|---|---|---|
 | [![Total Downloads](https://poser.pugx.org/fruitcake/laravel-cors/downloads)](https://packagist.org/fruitcake/laravel-cors/phpstan)  | [fruitcake/laravel-cors](https://github.com/fruitcake/laravel-cors) | laravel-cors 解决跨域问题 |
 | [![Total Downloads](https://poser.pugx.org/nunomaduro/larastan/downloads)](https://packagist.org/packages/nunomaduro/larastan)  | [nunomaduro/larastan](https://github.com/nunomaduro/larastan) | PHP 静态分析工具-laravel版 |
 | [![Total Downloads](https://poser.pugx.org/kitloong/laravel-migrations-generator/downloads)](https://packagist.org/fruitcake/kitloong/laravel-migrations-generator)  | [kitloong/laravel-migrations-generator](https://github.com/kitloong/laravel-migrations-generator) | laravel 从现有数据库生成迁移 |
