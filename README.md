@@ -20,7 +20,7 @@ Star后相信你可以比以往开发快10倍
 | 下载次数 |  扩展包 | 一句话描述 |
 |---|---|---|
 | [![Total Downloads](https://poser.pugx.org/w7corp/easywechat/downloads)](https://packagist.org/packages/w7corp/easywechat)  | [w7corp/easywechat](https://github.com/w7corp/easywechat) | 世界上最好的微信SDK |
-| [![Total Downloads](https://poser.pugx.org/wechatpay-apiv3/wechatpay-php/downloads)](https://packagist.org/wechatpay-apiv3/wechatpay-php/easywechat)  | [wechatpay-apiv3/wechatpay-php](https://github.com/wechatpay-apiv3/wechatpay-php) | 微信支付 |
+| [![Total Downloads](https://poser.pugx.org/wechatpay/wechatpay/downloads)](https://packagist.org/packages/wechatpay/wechatpay)  | [wechatpay-apiv3/wechatpay-php](https://github.com/wechatpay-apiv3/wechatpay-php) | 微信支付 |
 
 
 ## 服务容器
@@ -28,6 +28,8 @@ Star后相信你可以比以往开发快10倍
 | 下载次数 |  扩展包 | 一句话描述 |
 |---|---|---|
 | [![Total Downloads](https://poser.pugx.org/walkor/workerman/downloads)](https://packagist.org/packages/walkor/workerman)  | [walkor/workerman](https://github.com/walkor/workerman) | 开源高性能PHP应用容器 |
+| [![Total Downloads](https://poser.pugx.org/easyswoole/easyswoole/downloads)](https://packagist.org/packages/easyswoole/easyswoole)  | [easyswoole/easyswoole](https://github.com/easy-swoole/easyswoole) | EasySwoole - 高性能 Swoole 框架 |
+
 
 
 
@@ -36,6 +38,14 @@ Star后相信你可以比以往开发快10倍
 | 下载次数 |  扩展包 | 一句话描述 |
 |---|---|---|
 | [![Total Downloads](https://poser.pugx.org/Intervention/image/downloads)](https://packagist.org/packages/intervention/image)  | [intervention/image](https://github.com/Intervention/image) | 最强大的图片处理 |
+
+
+## Laravel相关
+
+| [![Total Downloads](https://poser.pugx.org/fruitcake/laravel-cors/downloads)](https://packagist.org/fruitcake/laravel-cors/phpstan)  | [fruitcake/laravel-cors](https://github.com/fruitcake/laravel-cors) | laravel-cors 解决跨域问题 |
+| [![Total Downloads](https://poser.pugx.org/nunomaduro/larastan/downloads)](https://packagist.org/packages/nunomaduro/larastan)  | [nunomaduro/larastan](https://github.com/nunomaduro/larastan) | PHP 静态分析工具-laravel版 |
+| [![Total Downloads](https://poser.pugx.org/kitloong/laravel-migrations-generator/downloads)](https://packagist.org/fruitcake/kitloong/laravel-migrations-generator)  | [kitloong/laravel-migrations-generator](https://github.com/kitloong/laravel-migrations-generator) | laravel 从现有数据库生成迁移 |
+| [![Total Downloads](https://poser.pugx.org/barryvdh/laravel-ide-helper/downloads)](https://packagist.org/packages/barryvdh/laravel-ide-helper)  | [barryvdh/laravel-ide-helper](https://github.com/barryvdh/laravel-ide-helper) | Laravel IDE Helper|
 
 ## 其他
 
@@ -48,18 +58,16 @@ Star后相信你可以比以往开发快10倍
 | [![Total Downloads](https://poser.pugx.org/phpunit/phpunit/downloads)](https://packagist.org/packages/phpunit/phpunit)  | [phpunit/phpunit](https://github.com/phpunit/phpunit) | PHP测试框架 |
 | [![Total Downloads](https://poser.pugx.org/mockery/mockery/downloads)](https://packagist.org/packages/mockery/mockery)  | [mockery/mockery](https://github.com/mockery/mockery) | 简单而灵活的 PHP 模拟对象框架 |
 | [![Total Downloads](https://poser.pugx.org/phpstan/phpstan/downloads)](https://packagist.org/packages/phpstan/phpstan)  | [phpstan/phpstan](https://github.com/phpstan/phpstan) | PHP 静态分析工具 |
-| [![Total Downloads](https://poser.pugx.org/nunomaduro/larastan/downloads)](https://packagist.org/packages/nunomaduro/larastan)  | [nunomaduro/larastan](https://github.com/nunomaduro/larastan) | PHP 静态分析工具-laravel版 |
-| [![Total Downloads](https://poser.pugx.org/fruitcake/laravel-cors/downloads)](https://packagist.org/fruitcake/laravel-cors/phpstan)  | [fruitcake/laravel-cors](https://github.com/fruitcake/laravel-cors) | laravel-cors 解决跨域问题 |
-| [![Total Downloads](https://poser.pugx.org/kitloong/laravel-migrations-generator/downloads)](https://packagist.org/fruitcake/kitloong/laravel-migrations-generator)  | [kitloong/laravel-migrations-generator](https://github.com/kitloong/laravel-migrations-generator) | laravel 从现有数据库生成迁移 |
-| [![Total Downloads](https://poser.pugx.org/barryvdh/laravel-ide-helper/downloads)](https://packagist.org/packages/barryvdh/laravel-ide-helper)  | [barryvdh/laravel-ide-helper](https://github.com/barryvdh/laravel-ide-helper) | Laravel IDE Helper|
 | [![Total Downloads](https://poser.pugx.org/mikey179/vfsstream/downloads)](https://packagist.org/packages/mikey179/vfsstream)  | [mikey179/vfsstream](https://github.com/mikey179/vfsstream) | 在单元测试中模拟真实文件系统的虚拟文件系统  |
-| [![Total Downloads](https://poser.pugx.org/jae-jae/querylist/downloads)](https://packagist.org/packages/jae-jae/querylist)  | [jae-jae/querylist](https://github.com/jae-jae/querylist) | 优雅的渐进式PHP采集框架，让采集更简单一点 |
-| [![Total Downloads](https://poser.pugx.org/silexphp/Pimple/downloads)](https://packagist.org/packages/silexphp/Pimple)  | [silexphp/Pimple](https://github.com/silexphp/Pimple) |  一个简单的 PHP 依赖注入容器 |
+| [![Total Downloads](https://poser.pugx.org/jaeger/querylist/downloads)](https://packagist.org/packages/jaeger/querylist)  | [jaeger/querylist](https://github.com/jae-jae/querylist) | 优雅的渐进式PHP采集框架，让采集更简单一点 |
+| [![Total Downloads](https://poser.pugx.org/pimple/pimple/downloads)](https://packagist.org/packages/pimple/Pimple)  | [pimple/pimple](https://github.com/silexphp/Pimple) |  一个简单的 PHP 依赖注入容器 |
 | [![Total Downloads](https://poser.pugx.org/phpoffice/phpspreadsheet/downloads)](https://packagist.org/packages/phpoffice/phpspreadsheet)  | [phpoffice/phpspreadsheet](https://github.com/phpoffice/phpspreadsheet) | PHP-Excel  |
 | [![Total Downloads](https://poser.pugx.org/jenssegers/agent/downloads)](https://packagist.org/packages/jenssegers/agent)  | [jenssegers/agent](https://github.com/jenssegers/agent) | 客户端 User Agent 解析工具  |
 | [![Total Downloads](https://poser.pugx.org/SimpleSoftwareIO/simple-qrcode/downloads)](https://packagist.org/packages/SimpleSoftwareIO/simple-qrcode)  | [SimpleSoftwareIO/simple-qrcode](https://github.com/SimpleSoftwareIO/simple-qrcode) | 二维码生成工具 |
-| [![Total Downloads](https://poser.pugx.org/GrahamCampbell/Laravel-Markdown/downloads)](https://packagist.org/packages/GrahamCampbell/Laravel-Markdown)  | [GrahamCampbell/Laravel-Markdown](https://github.com/GrahamCampbell/Laravel-Markdown) | Markdown 解析器 |
-
+| [![Total Downloads](https://poser.pugx.org/graham-campbell/markdown/downloads)](https://packagist.org/packages/graham-campbell/markdown)  | [GrahamCampbell/Laravel-Markdown](https://github.com/GrahamCampbell/Laravel-Markdown) | Markdown 解析器 |
+| [![Total Downloads](https://poser.pugx.org/friendsofphp/php-cs-fixer/downloads)](https://packagist.org/packages/friendsofphp/php-cs-fixer)  | [friendsofphp/php-cs-fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) | 一个自动修复 PHP 代码风格的工具 |
+| [![Total Downloads](https://poser.pugx.org/brainmaestro/composer-git-hooks/downloads)](https://packagist.org/packages/brainmaestro/composer-git-hooks)  | [brainmaestro/composer-git-hooks](https://github.com/BrainMaestro/composer-git-hooks) | 在您的composer配置中轻松管理 git 挂钩  |
+| [![Total Downloads](https://poser.pugx.org/symfony/cache/downloads)](https://packagist.org/packages/symfony/cache)  | [symfony/cache](https://github.com/symfony/cache) | Cache 组件 |
 
 ```shell
 //模板
